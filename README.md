@@ -54,6 +54,56 @@ Ce projet s’inscrit dans un double objectif :
 | `listed_in`    | Genres ou catégories |
 | `description`  | Brève description du contenu |
 
-## Observations et Conclusion de l'analyse de données
 
-/!\ A remplir /!\
+## 📈 Observations et conclusions
+
+Voici les observations tirés de l’analyse des données Netflix :
+
+---
+
+### 📊 Répartition des types d'œuvres
+
+- La majorité du contenu est composée de **films**, sinon ce sont des **séries**.
+- Cela reflète l’orientation de Netflix qui, historiquement, proposait plus de films, mais tend à équilibrer avec l'explosion des séries originales.
+
+---
+
+### 📅 Année de sortie
+
+- La majorité des œuvres date des **années 2010 à 2021**.
+- Peu d’œuvres datent d’avant les années 2000.
+- Cela montre que Netflix se concentre principalement sur du contenu récent.
+
+---
+
+### 🗓️ Date d’ajout sur Netflix
+
+- Les années **2019, 2020 et 2021** sont celles où le plus de contenus ont été ajoutés.
+- On observe une accélération du catalogue, sûrement liée à la stratégie d’expansion mondiale et à la production de contenus originaux.
+
+---
+
+### ⏱️ Durée des œuvres
+
+- **Films :** La majorité des films durent entre **80 et 120 minutes**.
+- **Séries :** La plupart des séries comptent **1 à 3 saisons**.
+
+---
+
+### 🎭 Répartition des genres
+
+- Les genres les plus fréquents sont :
+  - **Dramas**
+  - **Comedies**
+  - **International TV Shows**
+  - **Documentaries**
+- Netflix mise clairement sur la diversité des goûts avec une attention particulière portée aux contenus internationaux et aux documentaires.
+
+## 🧠 Conclusion
+
+L’analyse du catalogue Netflix permet de :
+- Mieux comprendre l’offre de contenus proposés aux utilisateurs,
+- Identifier les tendances de production et de diffusion,
+- Illustrer concrètement l’importance du **prétraitement**, de **l’analyse descriptive** et de **la visualisation** dans tout projet de data science.
+
+🎯 **Ce projet constitue une première étape dans l’utilisation de l’IA appliquée à un domaine concret : le divertissement.**
